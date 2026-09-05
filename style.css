@@ -2,3 +2,23 @@
   margin: o;
   padding: 0;
 }
+.nav {
+  height: 60px;
+  width:100px;
+  background-color: green:
+  color: yollow;
+  display: inline;
+  position: fixed;
+}
+#logo {
+  font-size: 30px
+  display: flex;
+  color: yollow;
+  font-family: aril;
+}
+a {
+  display: inline;
+  margin-left: 30px;
+  font-size: 20px;
+}
+  
